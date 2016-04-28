@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.22.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b2f15bec1db9a9fddabbc29cf0172333040d7d7">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/pre-dexed/debug/classes-57e8ffff65ac572cf4873724e9eda993d3568665.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/classes-81a87950800b5d4333c68a6d1404677cbb18c3ef.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0-9b4934bca86a1fc0c8b3c503595e4d6d74d4cf17.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-563616b4d3b0e22adca4cd41fba8f045cad3c9c0.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/classes-512a626e6b741f53423e2021a15dfdb488ed4d1d.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/SignaturExample/reactnativesignaturecapture/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6eebe89d191329e160e2b6b3625b401f8564aa24">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/pre-dexed/debug/classes-b04cfc67537e79c1bd8a476f33b11492294c651d.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-a76bbb759875c9d66eb084e5bf7540b90ad06970.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/pre-dexed/debug/classes-121b8584d2271f3dae696a9332fbfebc08ad0040.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-4e53253ecbabdb6908eba18223628a5700385fc9.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/classes-aacfbeb11ae6d53ab93b1c844fca4aa7322c1a8b.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-20d582b3a71f5cd9aa7a6b0006e9ba1ae773015a.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/pre-dexed/debug/classes-94db644d743902282e787efe04a2c92e3b861b36.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/pre-dexed/debug/classes-9720ec16e739a56a3bb8bb8580f34d705457bcf7.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/pre-dexed/debug/classes-fe510f8536a280e402e036e91ef2f856a67cad3a.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-557cef74f3aa1d2f44d871878912a64ef4fa77dd.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.22.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b2f15bec1db9a9fddabbc29cf0172333040d7d7">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/classes-7fbf865f179beaf3b37166e7d595d9064d87e48f.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/pre-dexed/debug/classes-a0f56b02d73e9084740257d034ebc3a962636f22.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/stetho-1.2.0-db2f8e5824fb8dbabd4f7e1f719d3e3fb273d4cd.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/classes-61efafdb1e88a9fcb2d382bb314e107629297bde.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/classes-819b550e8573fe3d552ab84714e2c5ea218e967e.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/classes-56126748b4ff443d3f5e8c3a8a055b9964151a46.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/pre-dexed/debug/classes-a63fc74371cda5d93e53623ec98255b82890690d.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-eb61e723de19a5417af5b74306dbb432a3a288c9.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/classes-18e5f9e37409f1315fcda6c71fb6efef3a51d0af.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.22.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0cc39db3c06f47dee223c382f78e2bff90b74274">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-e9708901a5687460a0387f8c8666c6b350db195d.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/pre-dexed/debug/classes-b041b4ef38135e25f63e265325782c42a282c89d.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-c349dcbe8e51a0461f71fc0156ce07ece56f24d4.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/classes-aca629bfe4ec9a4ce9f6ae0043dcf12bd1826a83.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/commons-cli-1.2-b78977bd229364247d8808dc0e78f60bb9936d39.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-b9309bf5e804fe1f39540990f2d092d8966fa886.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/ReactNativeSignatureExample/android/app/build/intermediates/pre-dexed/debug/classes-9355a68020744fd3202ebddbcebfe4f07431ce01.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-8e44e040757d673b4608a9c4801e1a5899876d7f.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-728ab8ebb4b52c1fd47a02ae868c2bf149bc5576.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/exploded-aar/SignaturExample/reactnativesignaturecapture/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="07c8bc117d664b474bf3384d32300c739da83f81">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/classes-956299066c2d155b67de91ab9501a8e110c5687e.jar" />
+    </item>
+    <item
+        jar="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.22.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0cc39db3c06f47dee223c382f78e2bff90b74274">
+        <dex dex="/Users/john.francis/Projects/MyRepo/SignatureSample/SignaturExample/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-ee8e63a0b39b671aee78e43fcd01ae7308a20ac2.jar" />
+    </item>
+
+</items>
